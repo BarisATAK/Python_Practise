@@ -1,0 +1,5 @@
+Ýsim  = Barýþ
+Soyad  = Atak
+Cinsiyet  = Erkek
+Yaþ  = 24
+Ülke  = Türkiye
